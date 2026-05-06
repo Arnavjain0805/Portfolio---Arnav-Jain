@@ -30,5 +30,5 @@ Since this project uses pure HTML, CSS, and JS, there is no need to install depe
 3. Simply open `index.html` in any modern web browser!
 
 ## 📫 Let's Connect
-*   **LinkedIn:** [Arnav Jain](https://www.linkedin.com/in/arnav-jain-53b924285/)[cite: 1]
-*   **GitHub:** [Arnavjain0805](https://github.com/Arnavjain0805)[cite: 1]
+*   **LinkedIn:** [Arnav Jain](https://www.linkedin.com/in/arnav-jain-53b924285/)
+*   **GitHub:** [Arnavjain0805](https://github.com/Arnavjain0805)
